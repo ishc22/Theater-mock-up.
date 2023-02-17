@@ -1,0 +1,45 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-content: space-around;
+}
+
+.card-body{
+    display: flex;
+    align-content: space-around;
+
+}
+
+.body-tetx{
+    display:flex;
+    align-content: center;
+    align-items: center;
+
+}
+.button{
+    display:flex;
+    align-items: center;
+}
+.button a{
+    color: aliceblue;
+    background-color: rgb(233, 167, 42);
+    font-size: 20px;
+}
+.main-id-card{
+    border: none;
+}
+.card{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid ;
+    border-radius: 10px;
+}
+.ttt{
+    align-content: center;
+    
+}
+
+
+
